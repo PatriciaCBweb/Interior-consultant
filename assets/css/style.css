@@ -58,7 +58,7 @@ header{
     font-size: 28px;
     transform:scale(1.4,1);
     padding-right: 50x;
-    cursor: pointer;
+    cursor:pointer;
 }
 
 .nav-content{
@@ -109,7 +109,7 @@ header{
     font-size: 60px;
     color: #fff;
     text-decoration: none;
-    cursor: pointer;
+    cursor:pointer;
 }
 
 /*//////////// MAIN ////////////*/
