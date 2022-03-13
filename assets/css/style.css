@@ -321,6 +321,37 @@ footer a{
         max-width: 800px;
     }
 
+    .designer{
+        width: 340px;
+        position: absolute;
+        right: 20px;
+        bottom: -80px;
+    }
+    
+    .person img{
+        width: 45px;
+        height: 45px;
+    }
+    
+    .name h3{
+        font-size: 14px;
+    }
+
+    .name h4{
+        font-size: 12px;
+    }
+    
+    .designed h2{
+        font-size: 24px;
+        margin-left: 10px; 
+    }
+
+}
+
+/*/////////// FOOTER ////////////*/
+
+footer p{
+    font-size: 14px;
 }
 
 @media (min-width: 550px) and (max-width: 1024px){
