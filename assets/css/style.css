@@ -347,13 +347,12 @@ footer a{
         font-size: 24px;
         margin-left: 10px; 
     }
+    
+    /*/////////// FOOTER ////////////*/
 
-}
-
-/*/////////// FOOTER ////////////*/
-
-footer p{
-    font-size: 14px;
+    footer p{
+        font-size: 14px;
+    }
 }
 
 @media (min-width: 550px) and (max-width: 1024px){
